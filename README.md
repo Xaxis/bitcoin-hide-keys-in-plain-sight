@@ -1,5 +1,5 @@
 ---
-title: "Hide Keys in Plain Sight: DIY multisig with RF sentinels and real-time tamper pings"
+title: "Hide Bitcoin Keys in Plain Sight: DIY multisig with RF sentinels and real-time tamper pings"
 description: "A practical, buildable plan for a self-custodial multisig that uses hidden geo-wallet sentinels to whisper encrypted status over unlicensed RF, warn on tamper, and keep you in control without putting signing keys online."
 pubDate: 2025-09-01
 tags: ["bitcoin", "self custody", "multisig", "hardware", "RF", "privacy", "DIY"]
